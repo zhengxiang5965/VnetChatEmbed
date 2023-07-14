@@ -114,7 +114,7 @@ You can also customize chatbot with different configuration
             "https://raw.githubusercontent.com/zahidkhawaja/langchain-chat-nextjs/main/public/usericon.png",
         },
         textInput: {
-          placeholder: "Type your question",
+          placeholder: "输入你的问题",
           backgroundColor: "#ffffff",
           textColor: "#303235",
           sendButtonColor: "#3B81F6",
